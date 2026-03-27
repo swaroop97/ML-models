@@ -5,8 +5,8 @@ This repo contains the recommended structure for a Python data science project. 
 
 ## Running the Sample
 
-- Open the template folder in VS Code (**File** > **Open Folder...**)
-- Create a Python virtual environment using the **Python: Create Environment** command found in the Command Palette (**View > Command Palette**). Ensure you install dependencies found in the `requirements.txt` file
+- Open the template folder in VS Code
+- Create a Python virtual environment using the **Python: Create Environment** command found in the Command Palette. Ensure you install dependencies found in the `requirements.txt` file
 - Ensure your newly created environment is selected using the **Python: Select Interpreter** command found in the Command Palette
 - Run `calculations.py` using the Play Button in the top right corner or by selecting **Python > Python File in Terminal** from the context menu or Command Palette
 - Run `revenue_visual.py` using the Play Button in the top right corner or by selecting **Python > Python File in Terminal** from the context menu or Command Palette to generate the bar graph visual
