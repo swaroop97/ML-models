@@ -5,11 +5,6 @@ This repo contains the recommended structure for a Python data science project. 
 
 ## Running the Sample
 
-To successfully run this example, I recommend the following VS Code extensions:
-- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
-- [Python Debugger](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy)
-- [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) 
-
 - Open the template folder in VS Code (**File** > **Open Folder...**)
 - Create a Python virtual environment using the **Python: Create Environment** command found in the Command Palette (**View > Command Palette**). Ensure you install dependencies found in the `requirements.txt` file
 - Ensure your newly created environment is selected using the **Python: Select Interpreter** command found in the Command Palette
