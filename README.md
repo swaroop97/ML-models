@@ -1,7 +1,6 @@
-# Data Science Template
+# ML-models — data analysis & visualization template
 
-This repo contains the recommended structure for a Python data science project. In this , I have used `pandas` and `matplotlib` libraries to perform data analysis and visualize sample data and the `pytest` library to perform tests.
-
+This repository is a small **Python data science template**. It uses **pandas** for tabular data, **matplotlib** for a sample bar-chart visualization (`revenue_visual.py`), and **pytest** for unit tests (`test_calculations.py`). Dependencies are split between `requirements.txt` (runtime) and `dev-requirements.txt` (testing). Use it as a starting point for analysis scripts, charts, and simple automated checks.
 
 ## Running the Sample
 
